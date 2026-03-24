@@ -1,0 +1,3924 @@
+{
+  "qc_rate_pct": 30.454545454545457,
+  "quantum_critical": 67,
+  "results": [
+    {
+      "common": "Suwannee Moccasinshell",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Medionidus walkeri",
+      "status": "CR"
+    },
+    {
+      "common": "Maui Upland Damselfly",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Megalagrion jugorum",
+      "status": "CR"
+    },
+    {
+      "common": "Oceanic Hawaiian Damselfly",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Megalagrion oceanicum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mictocaris halope",
+      "status": "CR"
+    },
+    {
+      "common": "Sanborn's Water Frog",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Telmatobius sanborni",
+      "status": "CR"
+    },
+    {
+      "common": "Canterbury Mudfish",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Neochanna burrowsius",
+      "status": "CR"
+    },
+    {
+      "common": "Burmese Peacock Softshell",
+      "enzymes": 15,
+      "pdb": 3,
+      "qc": 1,
+      "species": "Nilssonia formosa",
+      "status": "CR"
+    },
+    {
+      "common": "Chinese Stripe-necked Turtle",
+      "enzymes": 33,
+      "pdb": 3,
+      "qc": 1,
+      "species": "Mauremys sinensis",
+      "status": "NA"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Coleocephalocereus braunii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Matucana aureiflora",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Peniocereus occidentalis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Coleocephalocereus diersianus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Peniocereus maculatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Eriosyce chilensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Pereskia quisqueyana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Parodia rechensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hylocereus escuintlensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cleistocactus hoffmannii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Parodia nothorauschii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Eriosyce laui",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Leptocereus grantianus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Parodia werdermanniana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Peniocereus zopilotensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Leptocereus leonii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Melocactus braunii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mammillaria carmenae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Parodia nivosa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Matucana ritteri",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Pilosocereus diersianus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Haageocereus pacalaensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rhipsalis pentaptera",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Myrtillocactus eichlamii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Matucana madisoniorum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cylindropuntia hystrix",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Corynopuntia reflexispina",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Leptocereus wrightii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rhipsalis mesembryanthemoides",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Gymnocalycium ragonesei",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Pygmaeocereus bylesianus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Parodia herteri",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Echinocereus nivosus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Weberocereus frohningiorum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mammillaria theresae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Gymnocalycium neuhuberi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Echinopsis walteri",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Stenocereus chacalapensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cereus saddianus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Melocactus brederooianus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Matucana huagalensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Leptocereus scopulophilus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Parodia arnostiana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Parodia neohorstii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Coryphantha potosiana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Astrophytum caput-medusae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cleistocactus xylorhizus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Arrojadoa marylaniae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Discocactus hartmannii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Parodia crassigibba",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Leptocereus carinatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mammillaria laui",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Gymnocalycium albiareolatum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Haageocereus tenuis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mammillaria humboldtii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Parodia buiningii",
+      "status": "CR"
+    },
+    {
+      "common": "Malaysian Giant Turtle",
+      "enzymes": 2,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Orlitia borneensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Oxygonum subfastigiatum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Homalium elegantulum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Streptocarpus thysanotus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Celosia patentiloba",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cordia trichocladophylla",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Plumbago ciliata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Saintpaulia teitensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Gouania ulugurica",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Lingelsheimia sylvestris",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Tragia pogostemonoides",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cyathula braunii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ochna polyarthra",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Phyllanthus schliebenii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Euphorbia taruensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros uzungwaensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Streptocarpus euanthus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ochna citrina",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Impatiens simbiniensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Meineckia grandiflora",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Nectaropetalum acuminatum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Euphorbia syncalycina",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Stephanostema stenocarpum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Impatiens saliensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Gutenbergia oppositifolia",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Impatiens cinnabarina",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ochna schliebenii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Begonia zimmermannii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Plumbago stenophylla",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Sphaeranthus cristatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Aristogeitonia magnistipula",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Impatiens uzungwaensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ochna braunii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Meineckia ovata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Kleinia vermicularis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Coffea kihansiensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Impatiens humifusa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Impatiens tricaudata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ancistrocladus tanzaniensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cordia chaetodonta",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Streptocarpus burttianus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Buxus cordata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Streptocarpus kimbozanus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Impatiens paludicola",
+      "status": "CR"
+    },
+    {
+      "common": "Florida Cave Shrimp",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Palaemonetes cummingi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Palaina moussoni",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Palaina striolata",
+      "status": "CR"
+    },
+    {
+      "common": "Attenborough's Pitcher Plant",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Nepenthes attenboroughii",
+      "status": "CR"
+    },
+    {
+      "common": "Wattle-necked Softshell Turtle",
+      "enzymes": 23,
+      "pdb": 4,
+      "qc": 1,
+      "species": "Palea steindachneri",
+      "status": "CR"
+    },
+    {
+      "common": "Macedonian Grayling",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Pseudochazara cingovskii",
+      "status": "CR"
+    },
+    {
+      "common": "Discus Stingray",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Paratrygon aiereba",
+      "status": "CR"
+    },
+    {
+      "common": "Painted Terrapin",
+      "enzymes": 3,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Batagur borneoensis",
+      "status": "CR"
+    },
+    {
+      "common": "Sinai Primrose",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Primula boveana",
+      "status": "CR"
+    },
+    {
+      "common": "Beautiful water-starwort",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Callitriche pulchra",
+      "status": "CR"
+    },
+    {
+      "common": "Southern Even-fingered Gecko",
+      "enzymes": 3,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Alsophylax laevis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Pegias fabula",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Islamia pseudorientalica",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Leguminaia saulcyi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Boophis baetkei",
+      "status": "CR"
+    },
+    {
+      "common": "Asian Giant Softshell Turtle",
+      "enzymes": 25,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Pelochelys cantorii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Lathyrus gloeosperma",
+      "status": "CR"
+    },
+    {
+      "common": "Patzcuaro Allotoca",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Allotoca diazi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Vigna dolomitica",
+      "status": "CR"
+    },
+    {
+      "common": "Burmese Narrow-headed Softshell Turtle",
+      "enzymes": 11,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Chitra vandijki",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cryptella alegranzae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Charpentieria spezialensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Macedonica martae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Vermetum festinans",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Janulus pompylius",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Atlantica gomerensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Charpentieria ferrox",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Tandonia lagostana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Xerotricha garachicoensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Carinigera drenovoensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Charpentieria crassicostata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mammillaria manana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Bythinella atypikos",
+      "status": "CR"
+    },
+    {
+      "common": "Nguru Spiny Pygmy Chameleon",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rhampholeon acuminatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Physunio ferrugineus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros potamica",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros brainii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros ottohuberi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros tepu",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros kanizur",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros acris",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros glabrata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros rotok",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros fusicarpa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros fenal",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros terminalis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros tenuipes",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros bambuseti",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros subsessilis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros streptosepala",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros ketsensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros tetrapoda",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros transita",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diospyros alisu",
+      "status": "CR"
+    },
+    {
+      "common": "Galápagos Pink Land Iguana",
+      "enzymes": 3,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Conolophus marthae",
+      "status": "CR"
+    },
+    {
+      "common": "Kathalekan Marsh Nut",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Semecarpus kathalekanensis",
+      "status": "CR"
+    },
+    {
+      "common": "Taita Hills Warty Frog",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Callulina dawida",
+      "status": "CR"
+    },
+    {
+      "common": "Big-headed Turtle",
+      "enzymes": 50,
+      "pdb": 36,
+      "qc": 5,
+      "species": "Platysternon megacephalum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Vicia eristalioides",
+      "status": "CR"
+    },
+    {
+      "common": "Shenandoah Salamander",
+      "enzymes": 27,
+      "pdb": 3,
+      "qc": 1,
+      "species": "Plethodon shenandoah",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Calamaria ingeri",
+      "status": "CR"
+    },
+    {
+      "common": "Black Clubshell",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Pleurobema curtum",
+      "status": "CR"
+    },
+    {
+      "common": "Georgia Pigtoe",
+      "enzymes": 5,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Pleurobema hanleyianum",
+      "status": "CR"
+    },
+    {
+      "common": "Warrior Pigtoe",
+      "enzymes": 3,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Pleurobema rubellum",
+      "status": "CR"
+    },
+    {
+      "common": "Corpulent Hornsnail",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Pleurocera corpulenta",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Elaphoglossum stigmatolepis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Omoadiphas texiguatensis",
+      "status": "CR"
+    },
+    {
+      "common": "Roatan Coral Snake",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Micrurus ruatanus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Balaka streptostachys",
+      "status": "CR"
+    },
+    {
+      "common": "Alchichica Silverside",
+      "enzymes": 6,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Poblana alchichica",
+      "status": "CR"
+    },
+    {
+      "common": "Chignahuapan Silverside",
+      "enzymes": 4,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Poblana ferdebueni",
+      "status": "CR"
+    },
+    {
+      "common": "La Preciosa Silverside",
+      "enzymes": 5,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Poblana letholepis",
+      "status": "CR"
+    },
+    {
+      "common": "Quechulac Silverside",
+      "enzymes": 4,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Poblana squamata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Succinea rotumana",
+      "status": "CR"
+    },
+    {
+      "common": "Flax Snail",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Placostylus koroensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cryptella tamaranensis",
+      "status": "CR"
+    },
+    {
+      "common": "Rotuma Tree Snail",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Partula leefei",
+      "status": "CR"
+    },
+    {
+      "common": "Magdalena River Turtle",
+      "enzymes": 3,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Podocnemis lewyana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 5,
+      "pdb": 3,
+      "qc": 1,
+      "species": "Anolis cusuco",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 4,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Anolis amplisquamosus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Anolis muralla",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Triaspis schliebenii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Orthosiphon scedastophyllus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cyperus gigantobulbes",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rhynchosia braunii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Humbertochloa greenwayi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Taxillus wiensii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Disperis egregia",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Polystachya acuminata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Blotiella coriacea",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cynorkis usambarae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Saintpaulia ulugurensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rhynchosia calobotrya",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Lobelia graniticola",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Eugenia scheffleri",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diplazium ulugurense",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rhynchosia holtzii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Oldenlandia borrerioides",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Marsilea fadeniana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Phyllanthus rhizomatosus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Saintpaulia watkinsii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Tridactyle sarcodantha",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Combretum lindense",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ipomoea kilwaensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cyperus boreobellus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Polystachya porphyrochila",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Polystachya canaliculata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Athyrium rondoense",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Polystachya rugosilabia",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rhipidoglossum orientalis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Bulbostylis microcarpa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Eragrostis muerensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Orthosiphon schliebenii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dorstenia bicaudata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Commiphora ulugurensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Millettia puguensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mystacidium nguruense",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 21,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Lobelia sancta",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ipomoea microcalyx",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Memecylon buxoides",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ipomoea consimilis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Plectranthus scopulicola",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Oldenlandia patula",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Agelanthus rondensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Afrothismia mhoroana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Clarias batu",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Oreoglanis lepturus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 3,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Betta fusca",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hyalobagrus ornatus",
+      "status": "CR"
+    },
+    {
+      "common": "Pariette Cactus",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Sclerocactus brevispinus",
+      "status": "CR"
+    },
+    {
+      "common": "Jullien's Golden Carp",
+      "enzymes": 18,
+      "pdb": 3,
+      "qc": 1,
+      "species": "Probarbus jullieni",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Arrojadoa albiflora",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Discocactus cangaensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Discocactus subterraneo-proliferans",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rhipsalis triangularis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hungerfordia polymorpha",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Pseudotocinclus juquiae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 6,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Notholebias fractifasciatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Leptopanchax itanhaensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hypsolebias rufus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Listrura nematopteryx",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Listrura tetraradiata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Anablepsoides cearensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cnesterodon omorgmatos",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Leptopanchax citrinipinnis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Delturus parahybae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Phalloptychus eigenmanni",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Notholebias cruzi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hypsolebias virgulatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Trichomycterus itacarambiensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Kryptolebias gracilis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Atlantirivulus lazzarotoi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Campellolebias dorsimaculatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Neofundulus acutirostratus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Pamphorichthys pertapeh",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rhamdia enfurnada",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hypsolebias auratus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Simpsonichthys zonatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hasemania melanura",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Otothyris juquiae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Characidium vestigipinne",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cnesterodon iguape",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Hypsolebias janaubensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Phallotorynus fasciolatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ophthalmolebias perpendicularis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Kolpotocheirodon figueiredoi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 3,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Nematolebias papilliferus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Tembeassu marauna",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Heptapterus multiradiatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Atlantirivulus nudiventris",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Microlepidogaster perforatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hasemania maxillaris",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Campellolebias chrysolineatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Campellolebias intermedius",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hyphessobrycon taurocephalus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Isbrueckerichthys saxicola",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Ophthalmolebias bokermanni",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Melanorivulus egens",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Acrolebias carvalhoi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Ceratozamia santillanii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Zamia pyrophylla",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Estevesia alex-bragae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Ptychobranchus jonesi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cincinna kizakikoensis",
+      "status": "CR"
+    },
+    {
+      "common": "Bruneau Hot Springsnail",
+      "enzymes": 4,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Pyrgulopsis bruneauensis",
+      "status": "CR"
+    },
+    {
+      "common": "Beaverpond Marstonia",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Marstonia castor",
+      "status": "CR"
+    },
+    {
+      "common": "Princess Elimia",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Elimia bellacrenata",
+      "status": "CR"
+    },
+    {
+      "common": "Ash Meadows Pebblesnail",
+      "enzymes": 2,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Pyrgulopsis erythropoma",
+      "status": "CR"
+    },
+    {
+      "common": "Clear Lake Pyrg",
+      "enzymes": 3,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Pyrgulopsis ventricosa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Caledoconcha carnosa",
+      "status": "CR"
+    },
+    {
+      "common": "Ozark Pyrg",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Marstonia ozarkensis",
+      "status": "CR"
+    },
+    {
+      "common": "New Mexico Hotspring Snail",
+      "enzymes": 13,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Pyrgulopsis thermalis",
+      "status": "CR"
+    },
+    {
+      "common": "Three Forks Springsnail",
+      "enzymes": 3,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Pyrgulopsis trivialis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 19,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Fusconaia mitchelli",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Rauvolfia chaudocensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Polyscias thailandica",
+      "status": "CR"
+    },
+    {
+      "common": "Scowling Silverside",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Chirostoma aculeatum",
+      "status": "CR"
+    },
+    {
+      "common": "Least Silverside",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Chirostoma charari",
+      "status": "CR"
+    },
+    {
+      "common": "Blunthead Silverside",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Chirostoma melanoccus",
+      "status": "CR"
+    },
+    {
+      "common": "Patzcuaro Silverside",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Chirostoma patzcuaro",
+      "status": "CR"
+    },
+    {
+      "common": "Toluca Silverside",
+      "enzymes": 6,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Chirostoma riojai",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Trevesia vietnamensis",
+      "status": "CR"
+    },
+    {
+      "common": "Lerma Chub",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Algansea barbata",
+      "status": "CR"
+    },
+    {
+      "common": "Pátzcuaro Chub",
+      "enzymes": 12,
+      "pdb": 3,
+      "qc": 1,
+      "species": "Algansea lacustris",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Notropis calabazas",
+      "status": "CR"
+    },
+    {
+      "common": "Yellow Shiner",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Notropis calientis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Notropis marhabatiensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Fundulus philpisteri",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Callicarpa bracteata",
+      "status": "CR"
+    },
+    {
+      "common": "Giant Caryota",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Caryota kiriwongensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Trachycarpus oreophilus",
+      "status": "CR"
+    },
+    {
+      "common": "Finescale Splitfin",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Allodontichthys polylepis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ailanthus vietnamensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Camellia crassiphylla",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Camellia cucphuongensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Camellia dongnaiensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 2,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Camellia flava",
+      "status": "CR"
+    },
+    {
+      "common": "Purple Camellia",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Camellia piquetiana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Camellia rosmannii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Camellia rubriflora",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Cinnamomum cambodianum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 22,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Quercus sichourensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 25,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Quercus bawanglingensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Quercus albicaulis",
+      "status": "CR"
+    },
+    {
+      "common": "Zirahuén Allotoca",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Allotoca meeki",
+      "status": "CR"
+    },
+    {
+      "common": "Balsas Allotoca",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Neoophorus regalis",
+      "status": "CR"
+    },
+    {
+      "common": "Zacapu Allotoca",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Allotoca zacapuensis",
+      "status": "CR"
+    },
+    {
+      "common": "Polka-dot Splitfin",
+      "enzymes": 4,
+      "pdb": 3,
+      "qc": 1,
+      "species": "Chapalichthys pardalis",
+      "status": "CR"
+    },
+    {
+      "common": "Delanat's Paphiopedilum ",
+      "enzymes": 24,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Paphiopedilum delenatii",
+      "status": "CR"
+    },
+    {
+      "common": "Hang's Paphiopedilum ",
+      "enzymes": 9,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Paphiopedilum hangianum",
+      "status": "CR"
+    },
+    {
+      "common": "Ellen's Paphiopedilum",
+      "enzymes": 10,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Paphiopedilum helenae",
+      "status": "CR"
+    },
+    {
+      "common": "Henry's Paphiopedilum ",
+      "enzymes": 8,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Paphiopedilum henryanum",
+      "status": "CR"
+    },
+    {
+      "common": "Tiny Flowered Paphiopedilum ",
+      "enzymes": 21,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Paphiopedilum micranthum",
+      "status": "CR"
+    },
+    {
+      "common": "Purple Paphiopedilum",
+      "enzymes": 20,
+      "pdb": 3,
+      "qc": 0,
+      "species": "Paphiopedilum purpuratum",
+      "status": "CR"
+    },
+    {
+      "common": "Tran's Paphiopedilum",
+      "enzymes": 10,
+      "pdb": 2,
+      "qc": 0,
+      "species": "Paphiopedilum tranlienianum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Wrightia tokiae",
+      "status": "CR"
+    },
+    {
+      "common": "Peninsular Clingfish",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Gobiesox juniperoserrai",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Camellia maiana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 5,
+      "pdb": 2,
+      "qc": 0,
+      "species": "Paphiopedilum canhii",
+      "status": "CR"
+    },
+    {
+      "common": "Boo-Liat's Kukri Snake",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Oligodon booliati",
+      "status": "CR"
+    },
+    {
+      "common": "Prakke's Reed Snake",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Calamaria prakkei",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Conus salreiensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Conus mordeirae",
+      "status": "CR"
+    },
+    {
+      "common": "Tufa Darter",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Etheostoma lugoi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Rasbora tawarensis",
+      "status": "CR"
+    },
+    {
+      "common": "Glover's Tasmangoby",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Pascua sticta",
+      "status": "CR"
+    },
+    {
+      "common": "Sukhakul's Paphiopedilum",
+      "enzymes": 5,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Paphiopedilum sukhakulii",
+      "status": "CR"
+    },
+    {
+      "common": "Chinese Puffer",
+      "enzymes": 23,
+      "pdb": 2,
+      "qc": 1,
+      "species": "Takifugu chinensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 50,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Acer pentaphyllum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Acer shihweii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 24,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Magnolia chimantensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Magnolia domingensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Magnolia longipedunculata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Magnolia pleiocarpa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Quercus argyrotricha",
+      "status": "CR"
+    },
+    {
+      "common": "Island Pit Viper",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Trimeresurus labialis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Quercus fimbriata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Quercus mulleri",
+      "status": "CR"
+    },
+    {
+      "common": "Chichibu Birch",
+      "enzymes": 26,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Betula chichibuensis",
+      "status": "CR"
+    },
+    {
+      "common": "Chisos hop-hornbeam",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ostrya chisosensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Bolitoglossa huehuetenanguensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Bolitoglossa ninadormida",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Bolitoglossa nussbaumi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Bolitoglossa tzultacaj",
+      "status": "CR"
+    },
+    {
+      "common": "Blindwhiskered Catfish",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Rhamdia reddelli",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 25,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Carpinus hebestroma",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 20,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Carpinus tientaiensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Alnus henryi",
+      "status": "CR"
+    },
+    {
+      "common": "Tiburon Burrowing Frog",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Eleutherodactylus aporostegus",
+      "status": "CR"
+    },
+    {
+      "common": "Cordillera Central Frog",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Eleutherodactylus bothroboans",
+      "status": "CR"
+    },
+    {
+      "common": "Haitian Streamside Frog",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Eleutherodactylus limbensis",
+      "status": "CR"
+    },
+    {
+      "common": "Rucilla Streamside Frog",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Eleutherodactylus rucillensis",
+      "status": "CR"
+    },
+    {
+      "common": "Sinai Baton Blue",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Pseudophilotes sinaicus",
+      "status": "CR"
+    },
+    {
+      "common": "Bolland’s Blue",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Polyommatus bollandi",
+      "status": "CR"
+    },
+    {
+      "common": "Beloye Cisco",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Coregonus vessicus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Bulbostylis fusiformis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Commelina mwatayamvoana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Gutenbergia pubescens",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Silene cobalticola",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Wahlenbergia malaissei",
+      "status": "CR"
+    },
+    {
+      "common": "Sangzhi Horned Toad",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Megophrys sangzhiensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Gonatorhaphe lauensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Omphalotropis ingens",
+      "status": "CR"
+    },
+    {
+      "common": "Flax Shell",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Placostylus mbengensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Priceconcha tuvuthaensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Trochomorpha moalensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Trochomorpha tuvuthae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis metallica",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 3,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Dypsis leptocheilos",
+      "status": "CR"
+    },
+    {
+      "common": "Tahina Palm",
+      "enzymes": 26,
+      "pdb": 4,
+      "qc": 0,
+      "species": "Tahina spectabilis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis rakotonasoloi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis jeremiei",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis digitata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis trapezoidea",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis tokoravina",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis sancta",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis dracaenoides",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ravenea delicatula",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis carlsmithii",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis mahia",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ravenea hypoleuca",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis pulchella",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis ramentacea",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis beentjei",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis reflexa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis brevicaulis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ravenea beentjei",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis elegans",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis laevis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis lanuginosa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis tanalensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis pervillei",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis andilamenensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis caudata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis brittiana",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis remotiflora",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis vonitrandambo",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis pumila",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis sanctaemariae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis cookei",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis scandens",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis gronophyllum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis humilis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Dypsis anjae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Idioctis intertidalis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Conothele truncicola",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Nesiergus gardineri",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Nesiergus halophilus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Paccius quadridentatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Apolania segmentata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Microdrassus inaudax",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Euso muehlenbergi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Farqua quadrimaculata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Gamasomorpha austera",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ischnothyrella jivani",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Lionneta gerlachi",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Opopaea probosciella",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Opopaea suspecta",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Orchestina maureen",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hybosida dauban",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hybosida lucida",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Steriphopus lacertosus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Spermophorides lascars",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Prodidomus stella",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Hasarius mahensis",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Patu silho",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Seychellia lodoiceae",
+      "status": "CR"
+    },
+    {
+      "common": "Futuna's Emperor ",
+      "enzymes": 3,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Akihito futuna",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Stiphodon discotorquatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Stiphodon rubromaculatus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Moneta coercervea",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Sesato setosa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Andasta siltte",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Zoma zoma",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Voraptus tenellus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Afrogarypus seychellesensis",
+      "status": "CR"
+    },
+    {
+      "common": "Mariana Skink",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Emoia slevini",
+      "status": "CR"
+    },
+    {
+      "common": "Ono-i-Lau Ground Skink",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Leiolopisma alazon",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mahezomus apicoporus",
+      "status": "CR"
+    },
+    {
+      "common": "Wicker Ancylid",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Rhodacmea filosa",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mecistocephalus sechellarum",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Mecistocephalus cyclops",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ityphilus melanostigmus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Diglossosternoides curiosus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Ariadna ustulata",
+      "status": "CR"
+    },
+    {
+      "common": "Central Otago Roundhead Galaxias",
+      "enzymes": 8,
+      "pdb": 2,
+      "qc": 0,
+      "species": "Galaxias anomalus",
+      "status": "CR"
+    },
+    {
+      "common": "Lowland Longjaw Galaxias",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Galaxias cobitinis",
+      "status": "CR"
+    },
+    {
+      "common": "Eldons Galaxias",
+      "enzymes": 7,
+      "pdb": 2,
+      "qc": 0,
+      "species": "Galaxias eldoni",
+      "status": "CR"
+    },
+    {
+      "common": "Gollum Galaxias",
+      "enzymes": 19,
+      "pdb": 3,
+      "qc": 1,
+      "species": "Galaxias gollumoides",
+      "status": "CR"
+    },
+    {
+      "common": "Bignose Galaxias",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Galaxias macronasus",
+      "status": "CR"
+    },
+    {
+      "common": "Upland Longjaw Galaxias",
+      "enzymes": 2,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Galaxias prognathus",
+      "status": "CR"
+    },
+    {
+      "common": "Dusky Galaxias",
+      "enzymes": 6,
+      "pdb": 2,
+      "qc": 0,
+      "species": "Galaxias pullus",
+      "status": "CR"
+    },
+    {
+      "common": "Northland Mudfish",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 0,
+      "species": "Neochanna heleios",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Leptopalaemon glabrus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Sinodina acutipoda",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Caridina yilong",
+      "status": "CR"
+    },
+    {
+      "common": "Norfolk Island Paratya",
+      "enzymes": 1,
+      "pdb": 1,
+      "qc": 1,
+      "species": "Paratya norfolkensis",
+      "status": "CR"
+    },
+    {
+      "common": "Four-eyed Turtle",
+      "enzymes": 43,
+      "pdb": 4,
+      "qc": 1,
+      "species": "Sacalia quadriocellata",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Lancaris kumariae",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Palaemonetes mesopotamicus",
+      "status": "CR"
+    },
+    {
+      "common": "-",
+      "enzymes": 0,
+      "pdb": 0,
+      "qc": 0,
+      "species": "Macrobrachium purpureamanus",
+      "status": "CR"
+    }
+  ],
+  "skipped": 1,
+  "species_scanned": 489,
+  "species_with_qc": 63,
+  "terra_version": "0.4.0",
+  "total_enzymes": 866,
+  "with_pdb": 220
+}

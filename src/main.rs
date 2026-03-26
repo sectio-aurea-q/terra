@@ -19,6 +19,7 @@ use std::sync::{Arc, Mutex};
 // ═══ RESULT ═════════════════════════════════════════════════════════════
 
 #[derive(Clone)]
+#[derive(Debug)]
 struct SpeciesResult {
     idx: usize,
     scientific_name: String,

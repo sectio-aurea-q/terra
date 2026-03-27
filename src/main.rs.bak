@@ -183,28 +183,6 @@ fn main() {
     eprintln!("\x1b[0m");
 
     let args: Vec<String> = env::args().collect();
-
-    // ═══ STATS ══════════════════════════════════════════════════════════
-    if args.get(1).map(|s| s.as_str()) == Some("stats") {
-        let p = args.get(2).map(|s| s.as_str()).unwrap_or("terra-scan-results.json");
-        match fs::read_to_string(p).ok().and_then(|d| serde_json::from_str::<serde_json::Value>(&d).ok()) {
-            Some(j) => {
-                eprintln!("  \x1b[36m\x1b[1m═══ TERRA v0.5.0 STATISTICS ═══\x1b[0m\n");
-                eprintln!("  Source:                  {}", p);
-                eprintln!("  Species scanned:         {}", j["species_scanned"]);
-                eprintln!("  With enzymes in UniProt: {}", j["with_enzymes"]);
-                eprintln!("  Total enzymes:           {}", j["total_enzymes"]);
-                eprintln!("  With PDB structure:      {}", j["with_pdb"]);
-                eprintln!("  Quantum-critical:        {}", j["quantum_critical"]);
-                eprintln!("  Species with QC enzymes: {}/{}", j["species_with_qc"], j["with_enzymes"]);
-                eprintln!("  QC rate:                 {:.1}%", j["qc_rate_pct"].as_f64().unwrap_or(0.0));
-            }
-            None => eprintln!("  \x1b[31mNo results found ({})\x1b[0m", p),
-        }
-        eprintln!("\n  \x1b[36m\x1b[1mThe number that didn't exist.\x1b[0m\n");
-        std::process::exit(0);
-    }
-
     let species_file = args.get(1).map(|s| s.as_str()).unwrap_or("cr_species_500.txt");
     let mut limit: usize = 100;
     let mut n_threads: usize = 8;
